@@ -138,7 +138,7 @@ html {
   scroll-behavior: smooth;
 }
 .profile-img {
-  width: 300px;
+  width: 150px;
   height: auto;
   border-radius: 20px;
   object-fit: cover;
