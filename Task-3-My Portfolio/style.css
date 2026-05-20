@@ -30,7 +30,7 @@ li {
   padding: 20px;
   border-radius: 10px;
   list-style: none;
-  text-align: left;
+  text-align: center;
 }
 mark {
   background-color: black;
@@ -186,6 +186,9 @@ html {
   .project-card p {
     font-size: 14px;
   }
+  .profile-img {
+    width: 150px;
+  }
 }
 @media (min-width: 769px) {
   .projects-container {
@@ -224,6 +227,13 @@ html {
   flex-grow: 1;
   margin: 5px 0;
   line-height: 1.4;
+}
+.profile-img {
+  width: 250px;
+  height: auto;
+  border-radius: 20px;
+  display: block;
+  margin: 20px auto;
 }
 .project-card a {
   display: inline-block;
