@@ -137,8 +137,8 @@ button {
 html {
   scroll-behavior: smooth;
 }
-.profile-img {
-  width: 300px;
+img {
+  width: 150px;
   height: auto;
   border-radius: 20px;
   object-fit: cover;
@@ -186,7 +186,7 @@ html {
   .project-card p {
     font-size: 14px;
   }
-  .profile-img {
+  img {
     width: 150px;
   }
 }
@@ -228,7 +228,7 @@ html {
   margin: 5px 0;
   line-height: 1.4;
 }
-.profile-img {
+img {
   width: 250px;
   height: auto;
   border-radius: 20px;
